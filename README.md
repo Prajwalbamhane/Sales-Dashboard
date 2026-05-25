@@ -7,7 +7,7 @@ Short Description / Purpose
 The Sales Performance Analytics Dashboard is a business intelligence solution developed using Power BI to help organizations monitor sales operations, track profit trends, and evaluate overall business performance. The dashboard provides interactive visualizations that support strategic decision-making for sales teams, managers, and business analysts.
 
 Project Dataset & Resources:
-Google Drive Dataset Folder
+Google Drive Dataset Folder https://drive.google.com/drive/home
 
 ⚙️ Tech Stack
 
@@ -36,7 +36,7 @@ Business KPIs
 The dataset is structured to support sales analytics, profitability tracking, and performance monitoring through interactive dashboard reporting.
 
 Dataset Link:
-Sales Dashboard Dataset Resources:- https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbFdmeXowMFRxX2NQYncxUUxPdG9PWFRYNU5JQXxBQ3Jtc0tuZnhkcUpqdXRGUTRnemt2b1RwNzRGYzdVTjVCX3d3ZjlJYnZjby05WnFFNWZhQ1ZVdHRuX09HX0dGb1dvandjZUppazE1bnI4ZmlreWRZY1dxSllla20zLXU3WTFnZmVkTkFxeVRMZjdnN18yak9Ldw&q=https%3A%2F%2Fdrive.google.com%2Fdrive%2Ffolders%2F1mY0agiWajOKDelUjIAADWMbB0q6kSz2p%3Fusp%3Dsharing&v=6cV3OwFrOkk
+Sales Dashboard Dataset Resources:- https://drive.google.com/drive/home
 
 Features / Highlights
 • Business Problem
